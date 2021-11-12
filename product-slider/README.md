@@ -42,3 +42,4 @@ product-slider
 
 ظاهر کلی برنامه به‌این صورت است:
 
+[alt gift](https://github.com/myas92/digikala-frontend-questions/blob/master/product-slider/product-slider.gif)
